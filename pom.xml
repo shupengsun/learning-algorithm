@@ -7,7 +7,7 @@
 	<version>1.0.0</version>
 	<packaging>jar</packaging>
 
-	<name>learning-java</name>
+	<name>learning-algorithm</name>
 	<url>http://maven.apache.org</url>
 
 	<properties>
