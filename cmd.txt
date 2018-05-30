@@ -1,0 +1,6 @@
+
+java -cp ./target/learning-algorithm-1.0.0-shaded.jar com.rain.learning.algorithm.Selection < ./tiny.txt
+
+java -cp ./target/learning-algorithm-1.0.0-shaded.jar com.rain.learning.algorithm.Insertion < ./tiny.txt
+
+java -cp ./target/learning-algorithm-1.0.0-shaded.jar com.rain.learning.algorithm.Shell < ./tiny.txt
